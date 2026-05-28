@@ -11,3 +11,4 @@ print("Ainda bem que computadores não reviram os olhos quando cometemos erros."
 print("É estranho pensar que o computador só entende isso porque alguém inventou tudo do zero.")
 print("É curioso como a gente passa a vida inteira tentando descobrir quem é, mas quase nunca sabe o que responder quando alguém pergunta.")
 print("Professor, se errar faz parte do aprendizado, então um código cheio de erros significa que estou aprendendo muito rápido?")
+print("Não sei mais o que escrever, então vou começar a numerar as próximas linhas.")
