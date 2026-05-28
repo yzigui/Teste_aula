@@ -13,3 +13,4 @@ print("É curioso como a gente passa a vida inteira tentando descobrir quem é, 
 print("Professor, se errar faz parte do aprendizado, então um código cheio de erros significa que estou aprendendo muito rápido?")
 print("Não sei mais o que escrever, então vou começar a numerar as próximas linhas.")
 10
+11
